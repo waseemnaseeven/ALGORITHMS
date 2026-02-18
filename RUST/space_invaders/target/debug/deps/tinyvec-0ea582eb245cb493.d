@@ -1,0 +1,11 @@
+/Users/wnaseeve/Desktop/ALGORITHMS/RUST/space_invaders/target/debug/deps/tinyvec-0ea582eb245cb493.d: /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/lib.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/array.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/array/generated_impl.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/arrayvec.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/arrayvec_drain.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/slicevec.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/tinyvec.rs
+
+/Users/wnaseeve/Desktop/ALGORITHMS/RUST/space_invaders/target/debug/deps/libtinyvec-0ea582eb245cb493.rmeta: /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/lib.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/array.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/array/generated_impl.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/arrayvec.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/arrayvec_drain.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/slicevec.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/tinyvec.rs
+
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/lib.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/array.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/array/generated_impl.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/arrayvec.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/arrayvec_drain.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/slicevec.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tinyvec-1.8.0/src/tinyvec.rs:

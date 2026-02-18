@@ -1,0 +1,12 @@
+/Users/wnaseeve/Desktop/ALGORITHMS/RUST/space_invaders/target/debug/deps/gif-8c7bacb19a09fe90.d: /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/lib.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/traits.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/common.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/mod.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/decoder.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/converter.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/encoder.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/../README.md
+
+/Users/wnaseeve/Desktop/ALGORITHMS/RUST/space_invaders/target/debug/deps/libgif-8c7bacb19a09fe90.rmeta: /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/lib.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/traits.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/common.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/mod.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/decoder.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/converter.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/encoder.rs /Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/../README.md
+
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/lib.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/traits.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/common.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/mod.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/decoder.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/reader/converter.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/encoder.rs:
+/Users/wnaseeve/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gif-0.13.1/src/../README.md:
